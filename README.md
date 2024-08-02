@@ -46,16 +46,17 @@ A Node.js application with user authentication, profile management, password res
     or
    
 5. To connect your Node.js application to MongoDB Atlas, follow these steps:
-    Create a MongoDB Atlas Account:
+
+   Create a MongoDB Atlas Account:
     Sign up at MongoDB Atlas.
     Create a new cluster and get the connection string.
 
-6. Start the application:
+7. Start the application:
     ```sh
     npm start
     ```
 
-7. Open your browser and go to `http://localhost:3000`.
+8. Open your browser and go to `http://localhost:3000`.
 
 ## Testing
 
